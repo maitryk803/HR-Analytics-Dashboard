@@ -53,7 +53,7 @@ To analyze employee attrition and provide actionable insights that help organiza
 ## 📷 Dashboard Screenshot
 
 
-![HR Analytics Dashboard](screenshot.png)
+![HR Analytics Dashboard](powerbi-dashboard.png)
 
 
 
